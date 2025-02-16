@@ -1,0 +1,15 @@
+Store Report 2022 - Data Insights
+The Store Report 2022 provides an in-depth analysis of customer purchasing trends, order status, and sales distribution across different states, platforms, and demographics. This dataset is essential for understanding customer behavior, optimizing sales strategies, and improving inventory management.
+
+Key Insights:
+Sales peaked in March, with over 1.93M INR in revenue.
+Women accounted for 64% of total sales, while Men contributed 36%.
+92% of all orders were successfully delivered, with minimal returns and cancellations.
+Maharashtra, Karnataka, and Uttar Pradesh were the top-performing states in terms of revenue.
+Amazon (35%) and Flipkart (22%) dominated online sales channels.
+This repository contains:
+
+Raw Data: Sales transactions, customer demographics, and order details.
+Analysis Reports: Monthly sales trends, order fulfillment rates, and platform-wise distribution.
+Power BI Dashboard (Screenshots) for visual representation.
+This dataset is useful for business analysts, data scientists, and marketers looking to analyze consumer behavior, sales performance, and order fulfillment metrics.
